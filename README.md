@@ -2,9 +2,9 @@
 UAS Object Oriented Programming Semester 3
 
 Kelompok:
-Edward Antonio Herlambang Hutauruk
-Gabriella Lavigne Pink
-Joel Oktavianus
+1. Edward Antonio Herlambang Hutauruk
+2. Gabriella Lavigne Pink
+3. Joel Oktavianus
 
 Untuk memastikan program dapat dijalankan dengan lancar, terdapat satu penyesuaian kecil pada source code yang perlu dilakukan, khususnya terkait pemanggilan file gambar (resource). Adapun langkah-langkah yang perlu dilakukan adalah sebagai berikut:
 1. Buka direktori Other Sources → src/main/resources → images.
